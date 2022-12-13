@@ -1,6 +1,6 @@
 DOCKER_RUN=docker run -it --platform linux/amd64 --rm --mount type=bind,source=$(shell pwd),target=/usr/src/myapp -w /usr/src/myapp perl:5.34
 ifeq ($(NO_DOCKER), 1)
-	MAYBE_DOCKER=
+	DOCKER_RUN=
 endif
 
 clean:
