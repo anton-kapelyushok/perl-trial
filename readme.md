@@ -1,9 +1,9 @@
-# Public shame
+# Perl trial 
 
 yes, it is a Perl project 
 
 
-(geekuni.com - P e r l _____ E s s e n t i a l s )
+(geekuni.com - Реrl Еssеntiаls)
 https://geekuni.com/certification/validate/C42E05C9
 
 ```
